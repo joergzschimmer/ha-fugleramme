@@ -1,0 +1,16 @@
+name: "Fugleramme (Test)"
+version: "0.29.0"
+slug: "fugleramme_test"
+description: "Vogelillustrationen als Collage – zunächst ohne eigene Mikrofone"
+url: "https://arnegiacomo.dev/fugleramme/"
+arch:
+  - aarch64
+stage: experimental
+init: false
+startup: application
+boot: manual
+ports:
+  8080/tcp: 8188
+ports_description:
+  8080/tcp: "Fugleramme Weboberfläche"
+webui: "http://[HOST]:[PORT:8080]/"
