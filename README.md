@@ -1,6 +1,6 @@
 # Vogelbilder: Fugleramme auf Home Assistant OS
 
-Experimentelles App-Repository für unser Vogelbilder-Projekt. Installiert Fugleramme **0.29.0** als lokale App auf einem Raspberry Pi 5 mit Home Assistant OS. Die E1002-Wetteranzeige bleibt unangetastet.
+Experimentelles App-Repository für unser Vogelbilder-Projekt. Installiert Fugleramme **0.30.0** als lokale App auf einem Raspberry Pi 5 mit Home Assistant OS. Die E1002-Wetteranzeige bleibt unangetastet.
 
 ## In Home Assistant einbinden
 
